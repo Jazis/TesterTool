@@ -1,0 +1,31 @@
+go to VPBX|открыт ВАТС
+pick account|выбран аккаунт
+go to settings|открыты настройки
+assert that send email button is visible|убедиться, что кнопка отпрвки email отображается
+should be visible send email button|должна отображаться кнопка отправки email
+go to Faxes|открыты Факсы
+go to Calls|открыты Звонки
+click on calendar icon|нажать на иконку календаря
+should be visible calendar's menu|должно быть видно календарное меню
+go to Dashboard|открыта Панель маниторинга
+go to Settings|открыты настройки
+go to SIP settings|открыты настройки SIP
+go to Device|открыто Оборудование
+go to Reports|открыт Отчет
+click save|нажать 'Сохранить'
+click on add|нажать 'Добавить'
+click on delete|нажать 'Удалить'
+click on save|нажать 'Сохранить'
+go to Telephony|открыта Телефония
+go to Multitrunks|открыта Мультитранки
+go to administration|открыто Администрирование
+go to users|открыта Пользователи
+go to partner access|открыта Доступ партнерам
+go to control|открыто Управление
+go to user's general settings|открыты Общие настройки
+should appear success notification|убедиться, что уведомление об успешной операции отобразилось
+go to dashboard|открыто Главное меню
+switch account to|выбран аккаунт
+Fast go to|Быстрый переход в
+Should move to|Должен перейти в
+click on|нажать на

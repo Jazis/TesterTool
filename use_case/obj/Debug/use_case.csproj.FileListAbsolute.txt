@@ -1,0 +1,10 @@
+C:\Users\Jazis\source\repos\use_case\use_case\bin\Debug\use_case.exe.config
+C:\Users\Jazis\source\repos\use_case\use_case\bin\Debug\use_case.exe
+C:\Users\Jazis\source\repos\use_case\use_case\bin\Debug\use_case.pdb
+C:\Users\Jazis\source\repos\use_case\use_case\obj\Debug\use_case.csprojAssemblyReference.cache
+C:\Users\Jazis\source\repos\use_case\use_case\obj\Debug\use_case.Form1.resources
+C:\Users\Jazis\source\repos\use_case\use_case\obj\Debug\use_case.Properties.Resources.resources
+C:\Users\Jazis\source\repos\use_case\use_case\obj\Debug\use_case.csproj.GenerateResource.cache
+C:\Users\Jazis\source\repos\use_case\use_case\obj\Debug\use_case.csproj.CoreCompileInputs.cache
+C:\Users\Jazis\source\repos\use_case\use_case\obj\Debug\use_case.exe
+C:\Users\Jazis\source\repos\use_case\use_case\obj\Debug\use_case.pdb
